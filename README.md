@@ -2,6 +2,8 @@
 
 her er noget tekst.
 
+now i've enabled pr build support, does it still trigger??
+
 ## uh, struktur
 
 mere tekst. gokke?
