@@ -8,6 +8,8 @@ now i've enabled pr build support, does it still trigger??
 
 mere tekst. gokke?
 
+wow det virkede! så prøver vi en pr!
+
 ## har du set den her?
 
 blah blah blah.
