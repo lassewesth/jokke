@@ -4,6 +4,4 @@ nu har jeg 3 triggers:
 2. Kun reelle commits
 3. Kun pull requests
 
-And now making a PR...
-
-And another PRs, to see it commits-only triggers (shouldn't!)
+OK again, now with branch spec `+:(refs/pull/*/head)`, creating the logical name `refs/pull/*/head` for discriminating in triggers' branch filters
