@@ -11,3 +11,5 @@ For some reason commits-only is not triggering...
 Right, works now with `+:<default>`.
 
 And now, a PR!
+
+That worked!
