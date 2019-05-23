@@ -7,3 +7,5 @@ nu har jeg 3 triggers:
 OK again, now with branch spec `+:(refs/pull/*/head)`, creating the logical name `refs/pull/*/head` for discriminating in triggers' branch filters
 
 For some reason commits-only is not triggering...
+
+Right, works now with `+:<default>`.
