@@ -9,3 +9,5 @@ OK again, now with branch spec `+:(refs/pull/*/head)`, creating the logical name
 For some reason commits-only is not triggering...
 
 Right, works now with `+:<default>`.
+
+And now, a PR!
