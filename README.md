@@ -1,5 +1,5 @@
-trigger prs4
+nu har jeg 3 triggers:
 
-trigger nu efter `+:refs/pull/*/merge`
-
-ok det virkede med regular commit, nu med pull request
+1. Alle commits og pull requests
+2. Kun reelle commits
+3. Kun pull requests
