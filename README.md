@@ -5,3 +5,5 @@ nu har jeg 3 triggers:
 3. Kun pull requests
 
 OK again, now with branch spec `+:(refs/pull/*/head)`, creating the logical name `refs/pull/*/head` for discriminating in triggers' branch filters
+
+For some reason commits-only is not triggering...
